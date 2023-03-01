@@ -1,0 +1,22 @@
+{
+  "name": "typescript-netninja-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafal19987/Typescript-tut-by-netninja.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafal19987/Typescript-tut-by-netninja/issues"
+  },
+  "homepage": "https://github.com/rafal19987/Typescript-tut-by-netninja#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
